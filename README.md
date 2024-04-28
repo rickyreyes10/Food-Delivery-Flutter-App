@@ -12,7 +12,7 @@ This food delivery app provides a seamless and interactive ordering experience, 
 
 ## Links
 
-- [Youtube Link to Video Presentation](https://youtu.be/5i976hERb_0)
-- [Google Slides Link to Slides Presentation](https://docs.google.com/presentation/d/179hX5NZ2GojmMn7EyJRm4XzSU79A2YGG5Fm1gJe6mo0/edit?usp=sharing)
+- [Youtube link to Video Presentation] => (https://youtu.be/5i976hERb_0)
+- [Google slides used for presentation link] => (https://docs.google.com/presentation/d/179hX5NZ2GojmMn7EyJRm4XzSU79A2YGG5Fm1gJe6mo0/edit?usp=sharing)
 
 
